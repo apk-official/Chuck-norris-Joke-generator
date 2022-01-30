@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chuck norris jokes</string>
+    <string name="joke_generator">Joke Generator</string>
+    <string name="chuck_norris">Chuck Norris</string>
+    <string name="nerd_joke_teller">Nerd Joke teller</string>
+    <string name="todo">TODO</string>
+    <string name="joke">joke</string>
+    <string name="button">Button</string>
+    <string name="get_a_joke">Get a joke</string>
+    <string name="jokes">Jokes</string>
+    <string name="hi" />
+    <string name="textjoker">Jokes..</string>
+</resources>
